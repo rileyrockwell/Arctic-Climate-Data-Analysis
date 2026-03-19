@@ -13,3 +13,5 @@ print(instance.one)
 print(instance.two)
 print(instance.three)
 print(instance.four)
+
+print(instance.one, instance.two, instance.three, instance.four)
